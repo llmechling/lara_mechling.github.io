@@ -1,6 +1,8 @@
+## Showcase of Programming Work Throughout Time at Bellevue University in the Data Science Bachelors Program.
+
+(Use CTRL + click or CMD + click to open in a new tab)
 [Work Experience](https://llmechling.github.io/lara_mechling.github.io/work_experience)
 
-## Showcase of Programming Work Throughout Time at Bellevue University in the Data Science Bachelors Program.
 
 ### Courses Taken:
 [1. Introduction to Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_101)\
@@ -9,7 +11,7 @@
 [4. Data Science Analysis and Methodologies](https://llmechling.github.io/lara_mechling.github.io/dsc_300)\
 [5. Data Analysis and Visualization](https://llmechling.github.io/lara_mechling.github.io/dsc_310)\
 [6. Math for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_320)\
-[7. Data Wrangling for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_350)\
+[7. Data Wrangling for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_350)
 
 ### Upcoming Courses:
 1. Data Mining: Text Analytics and Unstructured Data
