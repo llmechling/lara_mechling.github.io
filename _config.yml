@@ -2,3 +2,5 @@ theme: jekyll-theme-midnight
 title: Lara Mechling's Github Repository
 description: Showcase of Coursework at Bellevue University
 syntax_highlighter: rouge
+syntax_highlighter_opts:
+        css_class: 'highlight'
