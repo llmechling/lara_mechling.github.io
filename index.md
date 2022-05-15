@@ -1,4 +1,4 @@
-## Showcase of Programming Work Throughout Time at Bellevue University in the Data Science Bachelors Program.
+## Showcase of Data Science Work Throughout Time at Bellevue University.
 
 (Use CTRL + click or CMD + click to open in a new tab)
 
