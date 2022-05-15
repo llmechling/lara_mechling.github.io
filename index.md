@@ -1,4 +1,4 @@
-## Showcase of Data Science Work Throughout Time at Bellevue University.
+## Showcase of Data Science Work Throughout My Experience at Bellevue University.
 
 (Use CTRL + click or CMD + click to open in a new tab)
 
