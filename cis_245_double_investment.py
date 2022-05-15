@@ -46,11 +46,3 @@ while active:
         print("\nTo double your investment it will take approximately:\n")
         print(years_and_months(years))
         
-#I wanted to put in a try loop to check for correct input, like there 
-#was no % sign included in the user input, but I couldnt figure out how to 
-#make it work with the other while loop. Is this something you could help
-#with in an office hour time?
-
-#Is it OK to use an online resource to find code to help with part of 
-#projects as long as we cite the code? Here i included the URL of the code
-#I used to help with the months and years output.
