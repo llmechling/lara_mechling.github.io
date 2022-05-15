@@ -3,7 +3,7 @@
 ## Showcase of Programming Work Throughout Time at Bellevue University in the Data Science Bachelors Program.
 
 ### Courses Taken:
-[1. Introduction to Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_101.md)\
+[1. Introduction to Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_101)\
 [2. Computer Systems for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_200)\
 3. Introduction to Programming\
 4. Data Science Analysis and Methodologies\
