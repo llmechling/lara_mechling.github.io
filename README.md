@@ -9,9 +9,9 @@
 5. Data Analysis and Visualization
 6. Math for Data Science
 7. Data Wrangling for Data Science
+8. Data Mining: Text Analytics and Unstructured Data
+9. Big Data, Technology, and Algorithms
 
 ### Upcoming Courses:
-1. Data Mining: Text Analytics and Unstructured Data
-2. Big Data, Technology, and Algorithms
-3. Predictive Analytics
-4. Applied Data Science
+1. Predictive Analytics
+2. Applied Data Science Capstone
