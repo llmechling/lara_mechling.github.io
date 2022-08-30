@@ -1,79 +1,84 @@
 [Home](https://llmechling.github.io/lara_mechling.github.io/)
 
-# Pellissippi State Community College
-## 2018 - Current
-### Knoxville, TN
+# About Me: 
+Analytical entry-level professional pursuing a bachelor’s degree in Data Science from Bellevue University. Gaining broad knowledge of Python, Matplotlib, Pandas, R, Tableau, Data Wrangling, and the Mechanics of Data Science. Proven strong communication and multitasking abilities with a keen eye for details; skilled at synthesizing and utilizing data to achieve organizational goals. Capable of analyzing problems, developing, and finding innovative solutions in a fast-paced environment.
 
-1. Work Study Student
-2. Administrative Assistant
-3. Department Assistant
+# Areas of Expertise
+♦	Research & Development
+♦	Data Analytics
+♦	Staff Training & Leadership	
+♦	Process Improvement
+♦	Inventory Management
+♦	Policies & Procedure Compliance 	
+♦	Cross-team Collaboration
+♦	Relationship Development
+♦	Issues & Dispute Resolution
 
-* Co-Chair of the Nursing Department Evaluation Committee, member of the Admissions, Progression, and Retention Committee, and member of the Support Staff Committee Council.
-*	Created defined data collection and reporting methodologies to streamline ACEN Accreditation reporting processes.
-*	Streamlined application procedure reducing timeline for processing and minimizing errors.
-*	Attended professional development to learn in-depth how to evaluate and disseminate information gathered in the NCLEX Program Reports.
-*	Prioritize multi-faceted and fluctuating projects, deadlines, and expectations.
-*	Created and maintained program databases, statistics, and longitudinal research databases used to maintain accreditation and improve program metrics. 
-*	Hire, train, and manage Administrative Assistant role. 
-*	Build procedure and policy documents.
-*	Understand and embody company policies, culture, and mission.
+# Technical Proficiencies
+Python | Matplotlib | Pandas | R | Tableau | Microsoft Office Suite | Sway | Banner | Argos | Brightspace | Data Science Foundations | Analyzing Data | Managing Databases | Statistics | Mathematics
 
-# Maternity Leave
-## 2017 - 2018
-### Knoxville, TN
+# Leadership Skills
+♦	History of utilizing remarkable leadership talents to lead and support team members.
+♦	Spearheaded evaluation committee initiatives to drive curriculum and program changes.
+♦	Revolutionary training initiatives driving increased company performance.
 
-# WIS International
-## 2015 - 2017
-### Chattanooga, TN
+# Education
 
-1. Inventory Associate
-2. Inventory Supervisor
+## Bellevue University
+### Bachelor of Data Science
+#### 3.81 GPA
+Bellevue, Nebraska, March 2023 Expected Graduation
+Omega Nu Lambda Honors Society
 
-*	Effectively reduce inventory time and reduce errors in team of employees through deploying employee-specific trainings and managing flow of inventories. 
-*	Built relationship with market clients through quick, efficient, and correct inventories ensuring their trust in the employee team and company at large.
-*	Oversee reporting and inventory flow at operating-partner level stores.
-*	Create training methods aimed at building employee confidence, speed, and accuracy.
+## Washington State University
+### Bachelor of Data Analytics
+#### 3.70 GPA
+Pullman, Washington, Transfered in 2020
 
-# P.F. Chang's China Bistro
-## 2009 - 2014
-### Chattanooga, TN
+## Pellissippi State Community College
+### General Associates of Science
+#### 3.70 GPA
+Knoxville, Tennessee, December 2018 Graduation
+Phi Beta Kappa Honors Society
 
-1. Server
-2. Bartender
-3. Assistant Manager
+# Work Experience
 
-*	Consistently met or exceeded labor expectation on floor shifts. 
-*	Built liquor inventory management system resulting in lowered liquor purchasing costs, lessening ordering errors, and decreasing the likelihood of having out of stock products.
-*	Instituted employee alcohol sales competitions increasing alcohol sales volume and driving employee satisfaction through friendly competition with tangible benefits. 
-*	Created summer alcohol training series pinpointing finer aspects of bar options, flavor profiles, and ingredients empowering employees with the knowledge to make the sale. 
-*	Work directly with alcohol sales representatives to learn market fluctuations and ensure an up-to-date and diverse bar menu at all times. 
-*	Fully manage all aspects of the front of house restaurant workings during average weekly sales of $65,000.
-*	Interview, hire, and oversee training of new employees.
-*	Create and manage schedules for over 40 employees weekly.
+## Black Knight, Inc
+### Jul7, 2022 - 2022
+#### Jacosonville, FL
+##### Data Analyst
 
-# Burnscroft Farm, LLC
-## 2007 - 2009
-### Cleveland, TN
+## Pellissippi State Community College
+### 2018 - 2022
+#### Knoxville, TN
+##### Department Assistant, Administrative Assistant, Work Study Student
 
-1. Assistant Horse Trainer
+Head of nursing department evaluation committee, acting as a core member of admissions, progression, and retention committee, and recognized as a key member of support staff committee council. Develop and implement defined data collection and reporting methodologies to align ACEN Accreditation reporting processes. Structure and deploy program databases, statistics, and longitudinal research databases used to maintain accreditation and improve program metrics.
 
-*	Provide daily care to over 25 horses
-*	Market and build lesson program for students
-*	Train young riders and horses.
+♦	Cut timeline for processing and minimizing errors by redefining the application procedure.
+♦	Coordinated and involved in professional development to gain broad expertise in evaluating and disseminating information gathered in the NCLEX program reports.
+♦	Supervised and prioritized critical multi-faceted and fluctuating projects within time constraints.
+♦	Oversaw HR operations comprising of hiring and training staff as well as managing the administrative assistant role.
+♦	Ensured the seamless running of functions by designing procedures and updating policy documents.
+♦	Acquired an awareness of and commitment to the company's policies, culture, and mission.
 
-# University of Tennessee
-## 2006 - 2007
-### Knoxville, TN
+## WIS International
+### 2015 - 2017
+#### Chattanooga, TN
+##### Inventory Supervisor, Inventory Associate
 
-1. Full-Time Student
+Oversaw reporting and inventory flow at operating-partner level stores. Cultivated and sustained robust relationships with market clients through quick, efficient, and correct inventories; gaining trust in the employee team and company at large.
 
-# Rochester Chop House
-## 2004 - 2006
-### Rochester Hills, MI
+♦	Slashed inventory time and errors in teams’ operations through creating and deploying employee-specific trainings and managing the flow of inventories.
+♦	Identified and applied efficient training methods to build employee confidence, speed, and accuracy.
 
-1. Hostess
+## P.F. Chang's China Bistro
+### 2009 - 2014
+#### Chattanooga, TN
+##### Assistant Manager, Bartender, Server
 
-*	Greet all restaurant guests in a friendly and professional manner.
-*	Assign server sections and maintain fairness in server seating,
-*	Answer phones and respond to all guest questions,
-*	Maintain reservation book and seating chart.
+Conducted employee alcohol sales competitions, led to an increase in volume of alcohol sales and drove employee satisfaction via friendly competition with tangible rewards. Partnered with alcohol sales representatives to learn market fluctuations and guaranteed that the bar menu is always current and varied.
+
+♦	Displayed remarkable performance efforts to meet and surpass floor shift labor expectations.
+♦	Established a system for the management of liquor inventory, resulting in reduced costs associated with purchase of liquor, a reduction in the number of ordering mistakes, and a lesser risk of running out of items.
+♦	Developed a summer alcohol training session focusing on the finer details of bar offerings, taste profiles, and ingredients as well as provided in-depth knowledge to generate sales.
