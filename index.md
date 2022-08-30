@@ -2,7 +2,7 @@
 
 (Use CTRL + click or CMD + click to open in a new tab)
 
-[Work Experience](https://llmechling.github.io/lara_mechling.github.io/work_experience)
+[Resume](https://llmechling.github.io/lara_mechling.github.io/work_experience)
 
 
 ### Courses Taken:
@@ -13,9 +13,10 @@
 [5. Data Analysis and Visualization](https://llmechling.github.io/lara_mechling.github.io/dsc_310)\
 [6. Math for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_320)\
 [7. Data Wrangling for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_350)
+8. Data Mining: Text Analytics and Unstructured Data
+9. Big Data, Technology, and Algorithms
+
 
 ### Upcoming Courses:
-1. Data Mining: Text Analytics and Unstructured Data
-2. Big Data, Technology, and Algorithms
-3. Predictive Analytics
-4. Applied Data Science
+1. Predictive Analytics
+2. Applied Data Science
