@@ -12,8 +12,8 @@
 [4. Data Science Analysis and Methodologies](https://llmechling.github.io/lara_mechling.github.io/dsc_300)\
 [5. Data Analysis and Visualization](https://llmechling.github.io/lara_mechling.github.io/dsc_310)\
 [6. Math for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_320)\
-[7. Data Wrangling for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_350)
-[8. Data Mining: Text Analytics and Unstructured Data](https://llmechling.github.io/lara_mechling.github.io/dsc_360)
+[7. Data Wrangling for Data Science](https://llmechling.github.io/lara_mechling.github.io/dsc_350)\
+[8. Data Mining: Text Analytics and Unstructured Data](https://llmechling.github.io/lara_mechling.github.io/dsc_360)\
 [9. Big Data, Technology, and Algorithms](https://llmechling.github.io/lara_mechling.github.io/dsc_400)
 
 
