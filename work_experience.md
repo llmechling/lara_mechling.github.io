@@ -5,13 +5,21 @@ Analytical entry-level professional pursuing a bachelor’s degree in Data Scien
 
 # Areas of Expertise
 ♦	Research & Development
+
 ♦	Data Analytics
-♦	Staff Training & Leadership	
+
+♦	Staff Training & Leadership
+
 ♦	Process Improvement
+
 ♦	Inventory Management
-♦	Policies & Procedure Compliance 	
+
+♦	Policies & Procedure Compliance 
+
 ♦	Cross-team Collaboration
+
 ♦	Relationship Development
+
 ♦	Issues & Dispute Resolution
 
 # Technical Proficiencies
