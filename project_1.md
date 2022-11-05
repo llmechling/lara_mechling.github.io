@@ -4,7 +4,7 @@
 
 (Use CTRL + click or CMD + click to open in a new tab)
 
-[Report](https://llmechling.github.io/lara_mechling.github.io/what_is_data_science.pdf)
+[Report](https://llmechling.github.io/lara_mechling.github.io/health_insurance_report.pdf)
 
 [Code](https://llmechling.github.io/lara_mechling.github.io/dsc_101_basketball_sales.pdf)
 
