@@ -8,4 +8,4 @@
 
 [Code](https://llmechling.github.io/lara_mechling.github.io/dsc_101_basketball_sales.pdf)
 
-[Presentation](https://llmechling.github.io/lara_mechling.github.io/dsc_101_sample_project_proposal.pdf)
+[Presentation](https://llmechling.github.io/lara_mechling.github.io/health_insurance_presentation.pdf)
