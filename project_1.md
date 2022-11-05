@@ -6,6 +6,6 @@
 
 [Report](https://llmechling.github.io/lara_mechling.github.io/health_insurance_report.pdf)
 
-[Code](https://llmechling.github.io/lara_mechling.github.io/Health_Insurance_Premiums.html)
+[Code](https://llmechling.github.io/lara_mechling.github.io/docs/jupyter/Health_Insurance_Premiums.html)
 
 [Presentation](https://llmechling.github.io/lara_mechling.github.io/health_insurance_presentation.pdf)
